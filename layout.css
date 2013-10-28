@@ -1,0 +1,22 @@
+*{
+	border: 1px solid red;
+}
+p{
+	padding: 10px;
+	margin: 10px;
+}
+header h1 {
+	float:left;
+}
+header ul {float:right;}
+.clear {clear:both;}
+
+
+
+
+	{
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
